@@ -17,7 +17,8 @@ public class Primitives {
 //        We also can use wrapper classes instead of primitive data type to work with purely OOPS
 //        Wrapper class is used to get additional functionalities than primitive data type
         Integer rno = 65;
-
+        Integer a = 234_000_000;
+        System.out.println(a);
     }
 
 }
