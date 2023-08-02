@@ -11,14 +11,17 @@ public class Loops {
         System.out.println("Enter the value of N");
         int N= input.nextInt();
         input.nextLine();
-//        Print number from 1 to 5
-//        System.out.println(1);
-//        System.out.println(2);
-//        System.out.println(3);
-//        System.out.println(4);
-//        System.out.println(5);
+
+        /*
+        Syntax of while loop:
+        while(boolean/conditional){
+             //body
+             //Increment/decrement
+        }
+
+         */
         while (count<=N) {
-            System.out.println(count);
+            System.out.println("Hello, World!");
             count += 1;
         }
     }
