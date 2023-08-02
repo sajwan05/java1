@@ -7,6 +7,8 @@ public class CondiIntro {
        Syntax of if statement :
        if(boolean expression){
                body
+               }else{
+
                }
          */
 //        if salary is more than 10k add 2k otherwise add 1k
